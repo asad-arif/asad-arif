@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Muhammad Asad</h1>
 <h3 align="center">A Passionate Full-Stack Developer Specializing in MERN!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
